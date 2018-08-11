@@ -17,5 +17,8 @@
     <Button
         android:layout_width="30dp"
         android:layout_height="33dp" />
+    <Button
+        android:layout_width="22dp"
+        android:layout_height="33dp" />
 
 </android.support.constraint.ConstraintLayout>
